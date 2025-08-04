@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Luan</h1>
 
 <p align="center">
-  <b>Desenvolvedor Java e Angular</b>, focado na construção de aplicações modernas.
+  <b>Desenvolvedor Java e Angular</b>
 </p>
 
 ---
