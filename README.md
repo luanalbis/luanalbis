@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Luan</h1>
+<h1 align="center">Olá! Eu sou o Luan</h1>
 
 <p align="center">
   <b>Desenvolvedor Java e Angular</b>
@@ -25,20 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 </p>
 
-
----
-
-## 📌 Projetos em destaque
-
-<!-- Em breve: Salutar, Biblioteca, To-do com IA -->
-
-
-
 ---
 
 ## 📫 Contato
 
-- Email: luanaalbis12@gmail.com
+- Email: luanaalbis3@gmail.com
+- Linkedin: https://linkedin.com/in/luanalbis
 - Buscando oportunidades como **Dev Java/Angular**
 
 
