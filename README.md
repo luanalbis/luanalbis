@@ -8,10 +8,9 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvendo back-end com Java e Spring (JPA, segurança com JWT)
-- 🌐 Trabalhando com front-end utilizando Angular
-- 🗄️ Utilizando bancos de dados relacionais e não relacionais
-- 📚 Em constante evolução com projetos que unem teoria e prática
+- Desenvolvendo back-end com Java e Spring Framework
+- Trabalhando com front-end utilizando Angular
+- Utilizando bancos de dados relacionais e não relacionais
 
 ---
 
