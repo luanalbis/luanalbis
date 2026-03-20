@@ -28,8 +28,8 @@
 
 ## 📫 Contato
 
-- Email: luanaalbis3@gmail.com
-- Linkedin: https://linkedin.com/in/luanalbis
+- Email: luanalbis3@gmail.com
+- Linkedin: https://www.linkedin.com/in/luanalbis
 - Buscando oportunidades como **Dev Java/Angular**
 
 
