@@ -96,8 +96,6 @@ Aplicação que consome a REST Countries API com filtro por região, busca por n
 
 <div align="center">
 
-![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanalbis&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalbis&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
